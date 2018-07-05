@@ -1,0 +1,12 @@
+### MATLAB
+*.asv
+*.mat
+
+
+### Images that are crated by scripts
+
+
+
+### OTHERS
+*~
+.DS_Store
